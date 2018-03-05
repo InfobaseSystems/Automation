@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<suite name="HM Home page Suite" parallel="false">
+
+  <test name="Home page a tag Test">
+    <classes>
+      <class name="programs.ATagsTest"/>
+    </classes>
+  </test> <!-- Test -->
+  
+  <test name="Login Test">
+    <classes>
+      <class name="programs.LoginPresentTestNG"/>
+    </classes>
+  </test> <!-- Test -->
+  
+</suite> <!-- Suite -->
